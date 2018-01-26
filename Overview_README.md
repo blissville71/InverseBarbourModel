@@ -7,4 +7,6 @@ Note 2: Back-calculated water sources should be carefully evaluated against best
 
 This code can be cited as: 
 
-Singer, MB, Sargeant, CI, Evans, C, A tool for back-calculating isotopic signatures of water sources used by vegetation, doi:10.5281/zenodo/1161221 <a href="https://zenodo.org/badge/latestdoi/119047089"><img src="https://zenodo.org/badge/119047089.svg" alt="DOI"></a>
+Singer, MB, Sargeant, CI, Evans, C, A tool for back-calculating isotopic signatures of water sources used by vegetation, doi:10.5281/zenodo/1161221 
+
+<a href="https://zenodo.org/badge/latestdoi/119047089"><img src="https://zenodo.org/badge/119047089.svg" alt="DOI"></a>
