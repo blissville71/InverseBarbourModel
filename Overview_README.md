@@ -5,4 +5,4 @@ Note1: There are numerous assumptions that go into the Barbour theory, but also 
 
 Note2: Back-calculated water sources should be carefully evaluated against best available information about water sources that are likely contributing to the root zone. This is also discussed in the companion paper.
 
-This code can be cited as: <a href="https://zenodo.org/badge/latestdoi/119047089"><img src="https://zenodo.org/badge/119047089.svg" alt="DOI"></a>
+This code can be cited as: Singer, MB, Sargeant, CI, Evans, C, A tool for back-calculating isotopic signatures of water sources used by vegetation, <a href="https://zenodo.org/badge/latestdoi/119047089"><img src="https://zenodo.org/badge/119047089.svg" alt="DOI"></a>
